@@ -1,0 +1,23 @@
+{
+  "name": "sky-server-events",
+  "version": "1.0.0",
+  "description": "Sky 私服活动系统模块：活动排期下发 + 594 个活动中文名 + 复刻先祖事件激活（0.34.5 实测可用）",
+  "main": "src/events.js",
+  "keywords": [
+    "sky",
+    "sky-children-of-the-light",
+    "private-server",
+    "event-schedule",
+    "i18n"
+  ],
+  "license": "MIT",
+  "files": [
+    "src/",
+    "data/",
+    "examples/",
+    "README.md"
+  ],
+  "scripts": {
+    "demo": "node examples/server-wiring.js"
+  }
+}
